@@ -1,4 +1,6 @@
 git trainin
 
 git is version control system.
-g
+
+
+git is a good toolg
